@@ -4,6 +4,7 @@ A concise academic homepage combining an al-folio-style profile area with Minima
 
 The implementation is plain HTML, CSS, and JavaScript, so it can be previewed without Ruby, Jekyll, Node.js, or other build dependencies.
 
+Visit this url: https://jayceonho.github.io/
 
 ## Design references
 
