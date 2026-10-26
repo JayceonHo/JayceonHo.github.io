@@ -30,7 +30,7 @@
   });
 
   window.addEventListener('resize', () => {
-    if (window.innerWidth > 760) closeMenu();
+    if (window.innerWidth > 640) closeMenu();
   });
 
   const year = document.querySelector('#year');
