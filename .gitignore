@@ -1,0 +1,5 @@
+# Local temporary / intermediate files (screenshots, scratch pages)
+tmp/
+
+# macOS
+.DS_Store
